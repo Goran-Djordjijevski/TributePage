@@ -30,3 +30,20 @@ body {
     color: #ffc93c;
     padding: 10px;
 }
+
+#tribute-info {
+    color: #ffc93c;
+    text-align: left;
+    width: 30%;
+    margin: auto;
+}
+
+#tribute-info h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+#tribute-info li {
+    padding: 10px;
+    line-height: 1.75;
+}
